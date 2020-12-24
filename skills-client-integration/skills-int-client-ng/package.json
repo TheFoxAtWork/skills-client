@@ -30,7 +30,7 @@
         "@ng-bootstrap/ng-bootstrap": "7.0.0",
         "@skilltree/skills-client-ng": "3.0.0",
         "@types/js-beautify": "1.11.0",
-        "axios": "0.19.2",
+        "axios": "0.21.1",
         "bootstrap": "4.5.0",
         "jquery": "3.5.1",
         "js-beautify": "1.10.2",
