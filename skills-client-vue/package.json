@@ -56,7 +56,7 @@
         "@skilltree/skills-client-js": "3.0.0",
         "axios": "0.19.2",
         "axios-auth-refresh": "1.0.7",
-        "lodash": "4.17.20",
+        "lodash": "4.17.21",
         "postmate": "1.5.2"
     },
     "files": [
